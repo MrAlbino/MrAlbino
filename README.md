@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayberk</h1>
+<div align="center"><h1 align="center">Hi 👋, I'm Ayberk</h1>
 <h3 align="center">I am a passionate software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mralbino&label=Profile%20views&color=e70404&style=flat" alt="mralbino" /> </p>
@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mralbino&show_icons=true&theme=dark&locale=en" alt="mralbino" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mralbino&theme=dark" alt="mralbino" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mralbino&theme=dark" alt="mralbino" /></p></div>
